@@ -13,11 +13,10 @@ CHAT_ID = os.getenv("CHAT_ID")
 MY_USER = os.getenv("MY_USER")
 MY_PASS = os.getenv("MY_PASS")
 
-TARGET_URL = "http://2.59.169.96/ints/agent/SMSCDRStats"
-LOGIN_URL = "http://2.59.169.96/ints/login"
+TARGET_URL = "http://51.210.208.26/ints/agent/SMSCDRStats"
+LOGIN_URL = "http://51.210.208.26/ints/login"
 
-# ✅ Firebase URL
-FB_URL = "https://mhnirob-default-rtdb.firebaseio.com/bot"
+
 
 ADMIN_LINK = "https://t.me/Mhnirob1"
 BOT_LINK = "https://t.me/tsall_bot"
